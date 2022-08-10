@@ -1,5 +1,5 @@
 # email_url_tracker
-Project sends an email and checks if a url in the email was clicked or not 
+Project has 2 sections: First section sends an email with a URL and notifies if the URL was opened. Second section sends an email and notifies if the email was opened.  
 
 SECTION 1: There is a url in an email and when the user clicks on the url, a notification is printed on the command terminal 
 
