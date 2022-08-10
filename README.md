@@ -15,7 +15,7 @@ SECTION 1 is functioning as per expectations.
 SECTION 2: There is an invisible tracking pixel in an email. When user opens the email, a notification is printed on the command terminal 
 
 website_pixel.py - running this file creates a gif image in a Flask web server. If the server recieves a GET request, it triggers an action (here, prints 
-"ACTION TRIGGERED" on command prompt) 
+"ACTION TRACKED" on command prompt) 
 
 pixel.py - running this file sends an HTML email to the user with link of the image in our web server
 
